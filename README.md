@@ -1,0 +1,2 @@
+# hak-termux
+termux cod
